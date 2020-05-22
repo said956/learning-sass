@@ -5,7 +5,6 @@
   "description": "Learning SASS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "scss": "node-sass --watch assets/scss -o assets/css"
   },
   "repository": {
